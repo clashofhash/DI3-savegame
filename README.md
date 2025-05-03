@@ -18,5 +18,8 @@ If you find a problem, i m not sure i will be able to respond (this is not my fu
 This https://github.com/themadgoblin/DI3SaveGameEditor appears to have more progress made but it relies on python.
 
 
-![What you should see when running the packer](pack_1_cmd.jpg)
+![What you should see when running the unpacker](pack_1_cmd.jpg)
 
+![What you should see when running the packer](pack_2_cmd.jpg)
+
+![sparks for all](pow2.jpg)
